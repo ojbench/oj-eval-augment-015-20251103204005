@@ -1,0 +1,10 @@
+CMakeFiles/
+CMakeCache.txt
+code
+database.dat
+index.dat
+*.o
+*.out
+cmake_install.cmake
+Makefile.bak
+
